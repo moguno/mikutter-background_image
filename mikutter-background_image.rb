@@ -43,7 +43,7 @@ Plugin.create(:"mikutter-background_image") {
 
   # 設定
   settings(_("背景画像")) {
-    fileselect(_("PNGファイル"), :background_file)
+    fileselect(_("画像ファイル"), :background_file)
     adjustment(_("濃さ(%)"), :background_transparency, 0, 100)
   }
 }
