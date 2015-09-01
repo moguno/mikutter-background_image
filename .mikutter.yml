@@ -1,0 +1,11 @@
+---
+slug: :mikutter-background_image
+depends:
+  mikutter: 3.2.0
+  plugin:
+  - gtk
+  - settings
+version: '0.0.1'
+author: moguno
+name: mikutter-background_image
+description: TLに背景画像を設定します
