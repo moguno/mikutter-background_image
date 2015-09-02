@@ -5,7 +5,7 @@ depends:
   plugin:
   - gtk
   - settings
-version: '0.0.2'
+version: '0.0.3'
 author: moguno
 name: mikutter-background_image
 description: TLに背景画像を設定します
